@@ -1,0 +1,58 @@
+[
+    {
+        "monsterid": 1,
+        "level": 1,
+        "monsterhp": 2,
+        "monstermaxhp": 2,
+        "monsterscore": 180
+    },
+    {
+        "monsterid": 2,
+        "level": 1,
+        "monsterhp": 2,
+        "monstermaxhp": 2,
+        "monsterscore": 180
+    },
+    {
+        "monsterid": 3,
+        "level": 1,
+        "monsterhp": 3,
+        "monstermaxhp": 3,
+        "monsterscore": 150
+    },
+    {
+        "monsterid": 4,
+        "level": 1,
+        "monsterhp": 7,
+        "monstermaxhp": 7,
+        "monsterscore": 400
+    },
+    {
+        "monsterid": 1,
+        "level": 2,
+        "monsterhp": 3,
+        "monstermaxhp": 3,
+        "monsterscore": 180
+    },
+    {
+        "monsterid": 2,
+        "level": 2,
+        "monsterhp": 3,
+        "monstermaxhp": 3,
+        "monsterscore": 180
+    },
+    {
+        "monsterid": 3,
+        "level": 2,
+        "monsterhp": 5,
+        "monstermaxhp": 5,
+        "monsterscore": 150
+    },
+    {
+        "monsterid": 4,
+        "level": 2,
+        "monsterhp": 9,
+        "monstermaxhp": 9,
+        "monsterscore": 400
+    }
+]

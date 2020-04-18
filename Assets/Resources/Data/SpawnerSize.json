@@ -1,0 +1,58 @@
+[
+    {
+        "spawnerid": 1,
+        "round": 1,
+        "spawnermonster": "BIBI",
+        "spawnersize": 4,
+        "repeat": 6
+    },
+    {
+        "spawnerid": 2,
+        "round": 1,
+        "spawnermonster": "BIBI2",
+        "spawnersize": 4,
+        "repeat": 4
+    },
+    {
+        "spawnerid": 3,
+        "round": 1,
+        "spawnermonster": "troll1",
+        "spawnersize": 4,
+        "repeat": 4
+    },
+    {
+        "spawnerid": 4,
+        "round": 1,
+        "spawnermonster": "troll2",
+        "spawnersize": 3,
+        "repeat": 6
+    },
+    {
+        "spawnerid": 1,
+        "round": 2,
+        "spawnermonster": "BIBI",
+        "spawnersize": 5,
+        "repeat": 5
+    },
+    {
+        "spawnerid": 2,
+        "round": 2,
+        "spawnermonster": "BIBI2",
+        "spawnersize": 5,
+        "repeat": 4
+    },
+    {
+        "spawnerid": 3,
+        "round": 2,
+        "spawnermonster": "troll1",
+        "spawnersize": 5,
+        "repeat": 5
+    },
+    {
+        "spawnerid": 4,
+        "round": 2,
+        "spawnermonster": "troll2",
+        "spawnersize": 4,
+        "repeat": 6
+    }
+]
